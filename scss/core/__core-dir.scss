@@ -6,7 +6,8 @@
 @import "./utils/responsive";
 
 // Base styles
-@import "./base/reset";
+// @import "./base/reset";
+@import "./base/normalize";
 @import "./base/typography";
 @import "./base/button";
 @import "./base/footer";
